@@ -1,0 +1,9 @@
+Day 1 – Generative AI Fundamentals
+All concepts covered
+- AI, ML and Deep Learning
+- Generative AI
+- LLMs and Transformers
+- Tokens and Context Windows
+- Prompt Engineering
+- Structured JSON Outputs
+- Practical AI application architecture
