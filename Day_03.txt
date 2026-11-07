@@ -1,0 +1,9 @@
+Agent Architecture and Execution
+
+6/6
+- Agent architecture
+- Instructions and guardrails
+- Tool selection
+- Tool execution lifecycle
+- Error handling and retries
+- Authentication and authorization
