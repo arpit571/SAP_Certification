@@ -1,0 +1,14 @@
+DBMS UNIT-4:
+Transaction System
+Testing of Serializability
+Serializability of Schedules
+Conflict and View Serializable Schedule
+Recoverability
+Recover from Transaction Failures
+Log based recovery
+Checkpoints
+Deadlock Handling
+Distributed Database
+Concurrency Control 
+Directory System
+
